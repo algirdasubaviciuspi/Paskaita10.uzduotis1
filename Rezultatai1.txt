@@ -1,0 +1,22 @@
+Pradinis kandidatų sąrašas
+---------------------------------------------------------------------------------------
+Vardas ir pavardė     Prieš tai dalyvavęs   Teisingi atsakymai Sugaištas laikas (sek.)
+---------------------------------------------------------------------------------------
+Agnė Popova                             3                   10                     35
+Julius Bosas                            0                   10                     20
+Rasa Visockytė                          6                    3                     10
+Karolis Butkus                          0                    3                     10
+Arina Arinova                           0                    3                     10
+---------------------------------------------------------------------------------------
+
+Rikiuoti duomenys
+---------------------------------------------------------------------------------------
+Vardas ir pavardė     Prieš tai dalyvavęs   Teisingi atsakymai Sugaištas laikas (sek.)
+---------------------------------------------------------------------------------------
+Julius Bosas                            0                   10                     20
+Agnė Popova                             3                   10                     35
+Rasa Visockytė                          6                    3                     10
+Arina Arinova                           0                    3                     10
+Karolis Butkus                          0                    3                     10
+---------------------------------------------------------------------------------------
+
